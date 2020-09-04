@@ -30,6 +30,15 @@ h5 {
 	font-weight: 700;
 	line-height: 20px;
 }
+h6 {
+	margin: 0 0 20px 0;
+	font-weight: 500;
+	font-size: 40px;
+	color: black;
+	text-transform: uppercase;
+	font-family:'Verdana';
+}
+
 p {
 	font-size: 16px;
 }
